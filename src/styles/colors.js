@@ -7,4 +7,6 @@ export default {
   light: '#C0C0C0',
   lighter: '#eee',
   white: '#FFF',
+
+  transparent: 'rgba(0, 0, 0, 0)',
 }
